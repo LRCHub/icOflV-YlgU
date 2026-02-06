@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "少女の頃に戻ったみたいに",
+  "base_artist": "ZARD",
+  "createdAt": "2026-02-06T07:16:44.423624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少女の頃に戻ったみたいに",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/01_少女の頃に戻ったみたいに_ZARD.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少女の頃に戻ったみたいに",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/02_少女の頃に戻ったみたいに_ZARD.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少女の頃に戻ったみたいに",
+      "artist": "羽田裕美",
+      "has_synced": false,
+      "path": "select/03_少女の頃に戻ったみたいに_羽田裕美.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "少女の頃に戻ったみたいに",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/04_少女の頃に戻ったみたいに_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少女の頃に戻ったみたいに",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/pl_01_少女の頃に戻ったみたいに_ZARD.txt"
+    }
+  ]
+}
